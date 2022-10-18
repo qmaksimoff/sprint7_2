@@ -108,7 +108,7 @@ public class CourierRegisterTest extends SetUpTests {
     }
 
     @After
-    @Step("Удаление из базы тестовых курьеров")
+    @Step("Удаление из базы тестовых курьеров.")
     public void cleanUp() {
 
         courierIdObj = courierClient.getCourierIdObj(courier);

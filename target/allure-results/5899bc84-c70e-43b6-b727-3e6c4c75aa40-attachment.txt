@@ -1,0 +1,14 @@
+{
+  "firstName": "аз",
+  "lastName": "зАДбедамЖзёДждклпЁЫеюЕчЪЁХз",
+  "address": "вБнюмяЕ19шь0ГЧ69Ы2ё3",
+  "metroStation": 196,
+  "phone": "49018506598",
+  "rentTime": 1,
+  "deliveryDate": "2023-06-20",
+  "comment": "ИОкКЫ0фяюе5Щ5дЙчрцДжфЭк",
+  "color": [
+    "BLACK",
+    "GREY"
+  ]
+}

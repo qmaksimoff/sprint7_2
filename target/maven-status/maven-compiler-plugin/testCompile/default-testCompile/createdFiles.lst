@@ -1,0 +1,8 @@
+orders/OrdersGetTest.class
+setup/SetUpTests.class
+orders/OrdersCreateTest.class
+orders/OrdersAcceptTest.class
+orders/OrdersFindTest.class
+courier/CourierRegisterTest.class
+courier/CourierAuthTest.class
+courier/CourierDeleteTest.class

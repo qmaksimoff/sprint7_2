@@ -1,0 +1,9 @@
+pojo/orders/Order.class
+client/OrdersClient.class
+data/DataGenerator.class
+config/ScooterConfig.class
+client/BaseClient.class
+pojo/courier/CourierIdObj.class
+client/CourierClient.class
+pojo/courier/Courier.class
+data/CourierData.class

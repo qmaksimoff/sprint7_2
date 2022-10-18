@@ -1,0 +1,5 @@
+{
+  "login": "wpHamznBrjU0",
+  "password": "password1234",
+  "firstName": "оХХстЖёСолЪТъХРВИмДЬЛ"
+}

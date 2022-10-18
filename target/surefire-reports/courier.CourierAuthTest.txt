@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: courier.CourierAuthTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 72.456 s <<< FAILURE! - in courier.CourierAuthTest
+shouldNotAuthWithoutPassword(courier.CourierAuthTest)  Time elapsed: 62.937 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <504>.
+
+	at courier.CourierAuthTest.shouldNotAuthWithoutPassword(CourierAuthTest.java:96)
+

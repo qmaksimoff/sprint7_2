@@ -1,0 +1,13 @@
+{
+  "firstName": "МЖ",
+  "lastName": "ТОжщи",
+  "address": "ЕвыЙ1ЯПрщ9ЦщйлФ9ф774цТПйкЦТСунИ1гЁиПлЧ",
+  "metroStation": 103,
+  "phone": "85143246844",
+  "rentTime": 4,
+  "deliveryDate": "2023-07-21",
+  "comment": "нЗЕОмгРъКЯМ3",
+  "color": [
+    "PURPLE"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+    "order": {
+        "id": 99313,
+        "firstName": "щёЗт",
+        "lastName": "ЯмДЕыюулнцйЪЕъ",
+        "address": "ЙТинЁЖхН7аьц1ЁРСцАЫёДявн1ЧаЕжЦАсЩП9",
+        "metroStation": "163",
+        "phone": "851904796627",
+        "rentTime": 2,
+        "deliveryDate": "2023-01-28T00:00:00.000Z",
+        "track": 151147,
+        "color": null,
+        "comment": "ъИьо0ЭЁзммёеНщ12у",
+        "cancelled": false,
+        "finished": false,
+        "inDelivery": false,
+        "createdAt": "2022-10-18T19:17:44.406Z",
+        "updatedAt": "2022-10-18T19:17:44.406Z",
+        "status": 0
+    }
+}

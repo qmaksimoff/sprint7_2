@@ -1,4 +1,0 @@
-{
-  "login": "HFVovYnXZA7O",
-  "firstName": "ЧКйфцнДыИЦ"
-}

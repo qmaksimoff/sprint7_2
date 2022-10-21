@@ -1,4 +1,0 @@
-{
-  "password": "password1234",
-  "firstName": "ийЩБышлн"
-}

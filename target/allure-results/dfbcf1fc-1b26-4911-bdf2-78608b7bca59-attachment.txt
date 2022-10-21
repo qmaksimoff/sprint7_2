@@ -1,3 +1,0 @@
-{
-  "login": "CBpeSTY4uf2B"
-}
